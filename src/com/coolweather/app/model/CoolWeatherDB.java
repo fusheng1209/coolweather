@@ -1,0 +1,7 @@
+package com.coolweather.app.model;
+
+/**
+ * Created by Administrator on 2014/12/2.
+ */
+public class CoolWeatherDB {
+}
